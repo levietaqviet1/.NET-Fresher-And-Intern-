@@ -1,0 +1,17 @@
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\bin\Debug\net6.0-windows\demoWinForm.exe
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\bin\Debug\net6.0-windows\demoWinForm.deps.json
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\bin\Debug\net6.0-windows\demoWinForm.runtimeconfig.json
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\bin\Debug\net6.0-windows\demoWinForm.dll
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\bin\Debug\net6.0-windows\demoWinForm.pdb
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\obj\Debug\net6.0-windows\demoWinForm.csproj.AssemblyReference.cache
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\obj\Debug\net6.0-windows\demoWinForm.Form1.resources
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\obj\Debug\net6.0-windows\demoWinForm.csproj.GenerateResource.cache
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\obj\Debug\net6.0-windows\demoWinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\obj\Debug\net6.0-windows\demoWinForm.AssemblyInfoInputs.cache
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\obj\Debug\net6.0-windows\demoWinForm.AssemblyInfo.cs
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\obj\Debug\net6.0-windows\demoWinForm.csproj.CoreCompileInputs.cache
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\obj\Debug\net6.0-windows\demoWinForm.dll
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\obj\Debug\net6.0-windows\refint\demoWinForm.dll
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\obj\Debug\net6.0-windows\demoWinForm.pdb
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\obj\Debug\net6.0-windows\demoWinForm.genruntimeconfig.cache
+D:\GIT\.NET-Fresher-And-Intern-\buoi2\buoi2_winfom\demoWinForm\obj\Debug\net6.0-windows\ref\demoWinForm.dll
