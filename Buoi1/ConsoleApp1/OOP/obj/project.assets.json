@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code_\\teacher\\SE\\ConsoleApp1\\OOP\\OOP.csproj",
+      "projectUniqueName": "D:\\GIT\\.NET-Fresher-And-Intern-\\Buoi1\\ConsoleApp1\\OOP\\OOP.csproj",
       "projectName": "OOP",
-      "projectPath": "D:\\code_\\teacher\\SE\\ConsoleApp1\\OOP\\OOP.csproj",
+      "projectPath": "D:\\GIT\\.NET-Fresher-And-Intern-\\Buoi1\\ConsoleApp1\\OOP\\OOP.csproj",
       "packagesPath": "C:\\Users\\NCC\\.nuget\\packages\\",
-      "outputPath": "D:\\code_\\teacher\\SE\\ConsoleApp1\\OOP\\obj\\",
+      "outputPath": "D:\\GIT\\.NET-Fresher-And-Intern-\\Buoi1\\ConsoleApp1\\OOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NCC\\AppData\\Roaming\\NuGet\\NuGet.Config",

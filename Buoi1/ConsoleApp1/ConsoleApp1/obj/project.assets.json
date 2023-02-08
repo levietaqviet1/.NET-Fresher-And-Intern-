@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code_\\teacher\\SE\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\GIT\\.NET-Fresher-And-Intern-\\Buoi1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\code_\\teacher\\SE\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\GIT\\.NET-Fresher-And-Intern-\\Buoi1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\NCC\\.nuget\\packages\\",
-      "outputPath": "D:\\code_\\teacher\\SE\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\GIT\\.NET-Fresher-And-Intern-\\Buoi1\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NCC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\code_\\teacher\\SE\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj": {
-              "projectPath": "D:\\code_\\teacher\\SE\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj"
+            "D:\\GIT\\.NET-Fresher-And-Intern-\\Buoi1\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj": {
+              "projectPath": "D:\\GIT\\.NET-Fresher-And-Intern-\\Buoi1\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj"
             }
           }
         }

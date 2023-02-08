@@ -1,5 +1,11 @@
 # .NET-Fresher-And-Intern-
 
+## Bài tập 8/02/2023
+1. Lấy code Buoi2 xuống và bắt hết tất cả các lỗi
+2. Nếu như mà tối ưu được đoạn nào thì +10
+3. Bắt trường hợp nhập Id bị trùng
+
+
 ## Bài tập 6/02/2023
 1. Tạo 1 interface có tên là IManager và 1 class Manager kế thừa IManager 
 2. Các hàm trong IManager bao gồm: 
